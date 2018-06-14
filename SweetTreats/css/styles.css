@@ -1,0 +1,159 @@
+* {
+    font-family: 'Arimo', sans-serif;
+    font-size: 1em;
+    color: #7c7c7c;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 4em;
+    margin-top: 60px;
+    /*text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;*/
+    color: 	#f26a8d;
+    background-color: #e83361;
+    color: transparent;
+    text-shadow: 1px 3px 2px rgba(255,255,255,0.5);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+}
+
+#about {
+    text-align: center;
+}
+#left {
+    /*border-right: 1px solid #f2b0c8;*/
+    padding-left: 40px;
+}
+.space {
+    margin-bottom: 12px;
+}
+
+.form-title {
+    margin-bottom: 1px;
+    color: #5b5b5b;
+}
+.form-control{
+    border: 1px solid #f2b0c8;
+}
+h2 {
+    font-size: 1.6em;
+    font-family: 'Frank Ruhl Libre', serif; 
+    /*font-style: italic;*/
+    font-weight: 900; 
+    color: #5b5b5b;
+}
+#lollies {
+    padding-top: 15px;
+}
+.btn {
+    background-color: #e83361;
+    border: none;
+}
+.btn:hover {
+    background-color: #f26a8d;
+}
+#lollies li {
+    padding-left: 15px;
+    list-style-type: none;
+}
+#close-button {
+    background-color: #f26a8d;
+    color: white;
+}
+#close-button:hover {
+    background-color: #f2b0c8;
+}
+.modal-title {
+    text-align: left;
+}
+#about-shop {
+    text-align: left;
+    background-color: #f2b0c8;
+    padding: 30px;
+    border: 10px solid #fff;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    -moz-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    margin-top: 78px;
+}
+#lollies {
+    padding: 0px 30px;
+    border: 10px solid #fff;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    -moz-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+}
+#quote-background {
+    background-color: #ffd6e5;
+    padding: 30px;
+    border: 10px solid #fff;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    -moz-box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    box-shadow: inset 3px 4px 76px 12px rgba(232,51,97,0.07);
+    position: relative;
+    margin-top: 35px;
+}
+.card {
+    margin: 15px 30px 15px 0px;
+    border-color: #f2b0c8;
+    display: inline-block;
+    height: 205px;
+}
+.card:hover {
+    border-color: #f26a8d;
+}
+.filter-links {
+    color: #e83361;
+    font-weight: 550;
+    margin: 2px;
+}
+.filter-links:hover {
+    text-decoration: none !important;
+    color: #f26a8d;
+}
+.filter-link {
+    color: #e83361;
+    font-weight: 550;
+    margin: 2px;
+}
+.filter-link:hover {
+    text-decoration: none !important;
+    color: #f26a8d;
+}
+#selected-event {
+    text-transform: capitalize;
+}
+.selected {
+    color: #e83361;
+    font-weight: 500;
+}
+#quote {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.insert {
+    font-weight: 400;
+}
+.bottom-line {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f2b0c8;;
+}
+.modal-content {
+    margin-top: 80px;
+}
+#invalid-treat {
+    color: #e83361;
+    padding-top: 2px;
+}
+#work-paragraph {
+    color: #5b5b5b;
+}
+.hidden {
+    display: none;
+}
+
+/*Wow!!!!! I really like you design and the color's use, but if the price tag can change to heightlight color will be more easy for customers/*
